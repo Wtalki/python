@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2024-11-10",
+        "description": "hello",
+        "category": "food",
+        "amount": 3000.0
+    },
+    {
+        "date": "2003-4-3",
+        "description": "br lote nay lae",
+        "category": "talk",
+        "amount": 2.0
+    },
+    {
+        "date": "3000-4-4",
+        "description": "dkfj",
+        "category": "3",
+        "amount": 2000.0
+    }
+]
